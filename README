@@ -1,0 +1,20 @@
+This contains all the codes that I wrote for my Data Structures course in my first year.
+The codes were tested on an online judge.
+
+The problem statements are added as PDFs in each directory.
+General Data Structures / Algorithms that have been used involve -
+
+Data Structures -
+Stack
+Queue
+Segment Tree
+Binary Search Tree
+Heap
+
+Algorithms -
+DFS
+BFS
+Dijkstra
+Kosaraju
+Viterbi
+Z - Algorithm
